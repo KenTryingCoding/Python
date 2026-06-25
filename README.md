@@ -1,7 +1,3 @@
-Here is a clean, comprehensive, and professional `README.md` file designed for your budget tracker script.
-
----
-
 # 📊 Terminal Budget Tracker
 
 A lightweight, interactive Command Line Interface (CLI) budget application built in Python. This tool allows users to manage multiple budget categories, log deposits and withdrawals, seamlessly transfer funds between sub-accounts, and generate a dynamic bar chart visualization of their monthly expenditures.
